@@ -12,7 +12,6 @@ import java.util.Stack;
  * The elements that are added first are the first to be removed.
  * New elements are added to the back/rear of the queue.
  *
- * @author sahilb2
  *
  */
 class QueueWithStack {
@@ -69,8 +68,6 @@ class QueueWithStack {
 /**
  * This class is the example for the Queue class
  *
- * @author sahilb2
- *
  */
 public class QueueUsingTwoStacks {
 
@@ -118,6 +115,8 @@ public class QueueUsingTwoStacks {
         // outStack: []
 
         System.out.println(myQueue.isEmpty()); //Will print true
+	    
+	    //End of code
 
     }
 }
