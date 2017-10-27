@@ -1,8 +1,3 @@
-/*
-@author  : Mayank K Jha
-
-*/
-
 
 public class Solution {
 
@@ -50,6 +45,10 @@ public static void main(String[] args) throws IOException {
          for(int i=1;i<=n;i++){
         	 if(i!=src && w[src][i]!=1000000l){System.out.print(w[src][i]+" ");}
         	 else if(i!=src){System.out.print("-1"+" ");}    //Printing -1 if there is no path b/w given pair of edges
+		 
+		  //End of code
+		 
+		 
          }
          
   }
