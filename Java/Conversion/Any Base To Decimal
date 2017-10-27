@@ -1,12 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
-
 // Driver program
 public class AnyBaseToDecimal {
     public static void main (String[] args) throws Exception{
