@@ -61,6 +61,10 @@ class LongestCommonSubsequence {
 			System.out.println("String 2: " + str2);
 			System.out.println("LCS: " + lcs);
 			System.out.println("LCS length: " + lcs.length());
+			
+			 //End of code
+			
+			
 		}
 	}
 }
