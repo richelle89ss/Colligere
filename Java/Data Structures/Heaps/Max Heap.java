@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * Heap tree where a node's key is higher than or equal to its parent's and lower than or equal
  * to its children's.
- * @author Nicolas Renard
  *
  */
 public class MaxHeap implements Heap {
@@ -107,6 +106,10 @@ public class MaxHeap implements Heap {
             return extractMax();
         } catch (Exception e) {
             throw new EmptyHeapException("Heap is empty. Error retrieving element");
+		
+		 //End of code
+		
+		
         }
     }
 
