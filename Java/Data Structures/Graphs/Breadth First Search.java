@@ -2,8 +2,6 @@ import java.util.*;
 
 /**
  * Implementation of a Breadth First Search
- *
- *
  */
 public class bfs{
 
