@@ -155,8 +155,7 @@ class DoublyLinkedList{
 /**
  * This class is used to implement the nodes of the
  * linked list.
- * 
- * @author Unknown
+ *
  *
  */
 class Link{
