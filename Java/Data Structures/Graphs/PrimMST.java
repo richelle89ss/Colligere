@@ -112,5 +112,8 @@ class PrimMST
  
         // Print the solution
         t.primMST(graph);
+     
+     // End
+     
     }
 }
