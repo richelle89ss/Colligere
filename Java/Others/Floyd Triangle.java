@@ -12,6 +12,10 @@ public class FloydTriangle {
                   System.out.print(++n + " ");
               }
               System.out.println();
+              
+               //End of code
+              
+              
           }
       }
 }
