@@ -1,8 +1,4 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
+
 public class SieveOfEratosthenes {
 
     /**
@@ -44,6 +40,10 @@ public class SieveOfEratosthenes {
 
         // Prints 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
         findPrimesTillN(n);
+        
+        //End of code
+        
+        
     }
 
 }
