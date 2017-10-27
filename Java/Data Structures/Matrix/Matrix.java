@@ -1,7 +1,5 @@
 /**
 * Matrix data-type.
-*
-* @author Kyler Smith, 2017
 */
 
 
@@ -193,5 +191,8 @@ public class Matrix {
         }
 
         return str;
+	    
+	     //End of code
+	    
     }
 }
