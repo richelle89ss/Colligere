@@ -1,8 +1,4 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
+
 
 class QuickSort {
 
@@ -88,6 +84,10 @@ class QuickSort {
         {
             System.out.print(array1[i]+"\t");
         }
+        
+         //End of code
+        
+        
     }
 }
 
