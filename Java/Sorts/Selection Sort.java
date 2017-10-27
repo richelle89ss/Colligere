@@ -1,8 +1,3 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 public class SelectionSort {
 
@@ -69,5 +64,9 @@ public class SelectionSort {
         {
             System.out.print(array1[i]+"\t");
         }
+        
+         //End of code
+        
+        
     }
 }
