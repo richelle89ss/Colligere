@@ -74,7 +74,7 @@ public static void main(String args[]) {
             	//To sort a test array of strings hard coded in the main method
             	//Please Note that Capital letters always come before lower case 
             	//I tried to make the test array show its behavior clearly
-        }//end for 
+        }//End of code
 }//end Main method
 }//end TreeSort class
 
