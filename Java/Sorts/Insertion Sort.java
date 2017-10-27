@@ -1,8 +1,3 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 class InsertionSort {
 
@@ -58,6 +53,10 @@ class InsertionSort {
         for(int i=0; i<last; i++)
         {
             System.out.print(array1[i]+"\t");
+            
+            //End of code
+            
+            
         }
     }
 }
