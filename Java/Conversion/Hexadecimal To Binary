@@ -3,6 +3,10 @@ import java.util.*;
 import java.util.Scanner;
 import javax.swing.*;
 
+/**
+Hex to Bin 
+**/
+
 public class HexaToBin {
  
     private final int LONG_BITS = 8;
