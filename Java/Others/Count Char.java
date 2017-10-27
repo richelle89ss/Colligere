@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 
 /**
- * @author Kyler Smith, 2017
- *
  * Implementation of a character count.
  * (Slow, could be improved upon, effectively O(n).
  * */
@@ -39,5 +37,9 @@ public class CountChar {
 			}}
 
         return count;
+	    
+	     //End of code
+	    
+	    
      }
 }
