@@ -122,7 +122,6 @@ class SinglyLinkedList{
  * They consist of a vlue and a pointer to the node
  * after them.
  * 
- * @author Unknown
  *
  */
 class Node{
