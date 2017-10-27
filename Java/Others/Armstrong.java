@@ -5,8 +5,6 @@ import java.util.Scanner;
  * a number that is equal to the sum of cubes of its digits for example 0, 1,
  * 153, 370, 371, 407 etc. For example 153 = 1^3 + 5^3 +3^3
  * 
- * @author mani manasa mylavarapu
- * 
  */
 public class Armstrong {
 	public static void main(String[] args) {
@@ -42,6 +40,10 @@ public class Armstrong {
 		} else {
 			return false;
 		}
+		
+		 //End of code
+		
+		
 
 	}
 }
