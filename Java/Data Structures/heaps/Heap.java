@@ -10,7 +10,6 @@ package heaps;
  * max-heap).</p>
  * <p>All heap-related operations (inserting or deleting an element, extracting the min or max) are performed in
  * O(log n) time.</p>
- * @author Nicolas Renard
  * 
  * 
  */
