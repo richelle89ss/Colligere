@@ -22,6 +22,10 @@ public class crc32 {
         }
         crc32 = Integer.reverse(crc32);                   //result reflect
         return crc32 ^ 0xFFFFFFFF;                        //final xor value
+        
+        //End of code
+        
+        
     }
 
 }
