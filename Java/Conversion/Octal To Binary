@@ -3,7 +3,6 @@ import java.util.Scanner;
 /**
  * Converts any Octal number to a Binary number
  * 
- * @author Zachary Jones
  *
  */
 public class OctalToBinary {
