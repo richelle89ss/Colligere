@@ -12,7 +12,6 @@ import java.lang.Object;
  * or double, either primitive type or object) and any kind of IMMUTABLE object the user sees fit
  * to carry any information he/she likes. Be aware that the use of a mutable object might
  * jeopardize the integrity of this information. </p>
- * @author Nicolas Renard
  *
  */
 public class HeapElement {
@@ -128,5 +127,9 @@ public class HeapElement {
      */
     public boolean equals(HeapElement otherHeapElement) {
         return (this.key == otherHeapElement.key) && (this.additionalInfo.equals(otherHeapElement.additionalInfo));
+        
+         //End of code
+        
+        
     }
 }
