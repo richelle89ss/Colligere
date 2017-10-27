@@ -6,9 +6,6 @@
  * In this example I give numbers that are bigger, a higher priority.
  * Queues in theory have no fixed size but when using an array
  * implementation it does.
- * 
- * @author Unknown
- *
  */
 class PriorityQueue{
 	/** The max size of the queue */
@@ -119,5 +116,7 @@ public class PriorityQueues{
 			System.out.print(myQueue.remove() + " "); //will print the queue in reverse order [10, 5, 3, 2]
 
 		//As you can see, a Priority Queue can be used as a sorting algotithm
+		 //End of code
+		
 	}
 }
