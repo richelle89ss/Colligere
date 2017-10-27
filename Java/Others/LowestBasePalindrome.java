@@ -7,8 +7,6 @@ import java.util.Scanner;
  * 
  * NOTE: There is potential for error, see note at line 63.
  * 
- * @author RollandMichael
- * @version 2017.09.28
  *
  */
 public class LowestBasePalindrome {
@@ -140,5 +138,9 @@ public class LowestBasePalindrome {
 			decimalValue /= b2;
 		}
 		return output;
+		
+		//End of code
+		
+		
 	}
 }
