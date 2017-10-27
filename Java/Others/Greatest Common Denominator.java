@@ -1,5 +1,5 @@
 //Oskar Enmalm 3/10/17
-//This is Euclid's algorithm which is used to find the greatest common denominator
+//This is Euclid's algorithm which is used to find the 
 
 public class GCD{
 
@@ -11,5 +11,8 @@ public static int gcd(int a, int b) {
             r = b % r;
         }
         return b;
+        
+         //End of code
+        
     }
 }
