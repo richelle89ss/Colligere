@@ -12,5 +12,9 @@ public class Node {
 	  anElement = currentElement;
 	  this.less = lessSide;
 	  this.greater = greaterSide;
+		 
+		 //End of code
+		 
+		 
 	 }
 }
