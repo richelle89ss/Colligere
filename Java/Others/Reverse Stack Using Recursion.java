@@ -63,6 +63,10 @@ public class ReverseStackUsingRecursion {
             insertAtEnd(temptop); //Recursive call
 
             stack.push(temp);
+            
+            //End of code
+            
+            
         }
 
     }
