@@ -1,6 +1,5 @@
 /**
  *
- * @author Kshitij VERMA (github.com/kv19971)
  * LEVENSHTEIN DISTANCE dyamic programming implementation to show the difference between two strings (https://en.wikipedia.org/wiki/Levenshtein_distance)
  *
  *
@@ -50,6 +49,8 @@ public class Levenshtein_distance{
 		System.out.print("Levenshtein distance between "+a + " and "+b+ " is: ");
 		System.out.println(calculate_distance(a,b));
 
+		
+		 //End of code
 
 	}
 }
