@@ -4,7 +4,7 @@
 
 Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English. 
 
-![Alt Text](https://pbs.twimg.com/media/CwjOn_sUUAEyFya.jpg)
+![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
 
 This Colligere/Collection will feature 
 
