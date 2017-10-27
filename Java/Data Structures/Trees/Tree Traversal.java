@@ -1,11 +1,5 @@
 import java.util.LinkedList;
 
-/**
-*
-* @author Varun Upadhyay (https://github.com/varunu28)
-*
-*/
-
 
 // Driver Program
 public class TreeTraversal {
