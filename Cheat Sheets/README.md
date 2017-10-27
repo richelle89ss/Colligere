@@ -1,1 +1,1 @@
-# Cheatsheets for every languages
+# Cheat Sheets for every languages
