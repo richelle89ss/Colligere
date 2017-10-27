@@ -1,8 +1,5 @@
 package Sorts;
 
-/**
- * @author dpunosevac
- */
 public class ShellSort {
 
   /**
@@ -64,5 +61,9 @@ public class ShellSort {
     for (int i = 0; i < array.length; i++) {
       System.out.println(array[i]);
     }
+    
+    //End of code
+    
+    
   }
 }
