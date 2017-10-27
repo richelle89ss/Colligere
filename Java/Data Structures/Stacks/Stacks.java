@@ -9,9 +9,6 @@ import java.util.ArrayList;
  * of an array implementation of a Stack. So an element can only be added/removed
  * from the end of the array. In theory stack have no fixed size, but with an
  * array implementation it does.
- *
- * @author Unknown
- *
  */
 class Stack{
 	/** The max size of the Stack */
@@ -109,8 +106,6 @@ class Stack{
  * This is an ArrayList Implementation of stack, Where size is not
  * a problem we can extend the stack as much as we want.
  *
- * @author Unknown
- *
  */
 class Stack2{
 		/** ArrayList representation of the stack */
@@ -180,7 +175,6 @@ class Stack2{
 /**
  * This class implements the Stack and Stack2 created above
  *
- * @author Unknown
  *
  */
 public class Stacks{
@@ -217,5 +211,9 @@ public class Stacks{
  		System.out.println(myStack2.pop()); //will print 9
  		System.out.println(myStack2.peek()); // will print 2
  		System.out.println(myStack2.pop()); //will print 2
+		
+		 //End of code
+		
+		
 	}
 }
