@@ -1,8 +1,4 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
+
 import java.util.LinkedList;
 
 public class FindHeightOfTree {
@@ -94,6 +90,10 @@ class Node {
         }
         else {
             return 1 + findHeight(root.left);
+            
+             //End of code
+            
+            
         }
     }
 }
