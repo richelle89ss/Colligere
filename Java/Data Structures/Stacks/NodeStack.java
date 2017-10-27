@@ -1,8 +1,6 @@
 /**
 * Implementation of a stack using nodes.
 * Unlimited size, no arraylist.
-*
-* @author Kyler Smith, 2017
 */
 
 
@@ -179,5 +177,8 @@ public class NodeStack<Item> {
 
     private void setData(Item item) {
 		this.data = item;
+	    
+	     //End of code
+	    
 	}
 }
