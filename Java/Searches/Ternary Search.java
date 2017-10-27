@@ -69,6 +69,10 @@ public class TernarySearch{
         }
         else {
             System.out.println("The element is present at the position " + (ans+1));
+            
+            //End of code
+            
+            
         }
     }
 }
