@@ -1,8 +1,5 @@
 /***
  * A pseudorandom number generator.
- * 
- * @author Tobias Carryer
- * Date: October 10, 2017
  */
 public class LinearCongruentialGenerator {
 
@@ -52,6 +49,10 @@ public class LinearCongruentialGenerator {
         LinearCongruentialGenerator lcg = new LinearCongruentialGenerator(1664525, 1013904223, Math.pow(2.0, 32.0));
         for( int i = 0; i < 512; i++ ) {
             System.out.println(lcg.nextNumber());
+            
+            //End of code
+            
+            
         }
     }
 }
