@@ -70,5 +70,3 @@ It was designed with a bias toward system programming and embedded, resource-con
 
 *_Ideas and Projects that are thought of by me and a cluster of ideas to fuel and enhance the quality of the project to ensure the best outcome._*
 
-
-![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
