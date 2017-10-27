@@ -4,9 +4,6 @@
  * A queue data structure functions the same as a real world queue.
  * The elements that are added first are the first to be removed.
  * New elements are added to the back/rear of the queue.
- * 
- * @author Unknown
- *
  */
 class Queue{
 	/** Max size of the queue */
@@ -144,5 +141,9 @@ public class Queues{
 		
 		System.out.println(myQueue.peekFront()); //Will print 2
 		System.out.println(myQueue.peekRear()); //Will print 7 	
+		
+		 //End of code
+		
+		
 	}
 }
