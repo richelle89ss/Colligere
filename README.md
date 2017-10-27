@@ -12,7 +12,7 @@
 ### *Date of Birth* : *Nov 16th* 1998 
 ### *Education* : Foundation in *Computing*, Bachelor's Degree in *Software Engineering* @ *Taylor's University*
 ### *Work* : Freelance *Translator* , *Animal rights volunteer*
-## *Accomplishments* : 1. Number 3 in Knowledge in General Sciences Competition. 2. Got in Top 100 at a NASA Hackaton amongst 700 Teams.
+### *Accomplishments* : 1. Number 3 in Knowledge in General Sciences Competition. 2. Got in Top 100 at a NASA Hackaton amongst 700 Teams.
 
 # *This Colligere/Collection will feature*
 
