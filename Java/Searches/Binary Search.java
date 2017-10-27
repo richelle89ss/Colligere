@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 class BinarySearch
 {
@@ -67,5 +62,9 @@ class BinarySearch
             System.out.println("Not found");
 
         input.close();
+        
+         //End of code
+        
+        
     }
 }
