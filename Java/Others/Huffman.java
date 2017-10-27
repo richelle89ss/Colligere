@@ -5,10 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
-/**
- *
- * @author Mayank Kumar (mk9440)
- */
+
 /*
 Output :
 
@@ -154,5 +151,9 @@ public class Huffman {
     System.out.println("Letter\t\tEncoded Form");
     for(int i=0;i<n;i++){
     System.out.print(s[i]+"\t\t");dfs(root,s[i]);System.out.println();}
+     
+      //End of code
+     
+     
      }
 }
