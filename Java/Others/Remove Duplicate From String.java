@@ -1,11 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 public class removeDuplicateFromString {
     public static void main (String[] args) throws Exception{
@@ -41,5 +36,9 @@ public class removeDuplicateFromString {
         }
 
         return sb.toString();
+        
+         //End of code
+        
+        
     }
 }
