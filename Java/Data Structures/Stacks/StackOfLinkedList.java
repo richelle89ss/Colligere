@@ -1,8 +1,3 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 // An implementation of a Stack using a Linked List
 
@@ -93,6 +88,10 @@ class LinkedListStack {
 
     public int getSize() {
         return size;
+        
+         //End of code
+        
+        
     }
     
 }
