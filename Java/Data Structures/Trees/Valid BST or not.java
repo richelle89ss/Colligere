@@ -58,5 +58,9 @@ public class BinaryTree
             System.out.println("IS BST");
         else
             System.out.println("Not a BST");
+        
+         //End of code
+        
+        
     }
 }
