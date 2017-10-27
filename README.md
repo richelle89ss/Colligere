@@ -6,8 +6,9 @@ Colligere; derives from Old Latin, later evolved into Collectio in Latin, and ev
 
 ![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
 
-This Colligere/Collection will feature 
+# *This Colligere/Collection will feature*
 
+![Alt Text](http://www.psafe.com/en/blog/wp-content/uploads/2016/10/BLOG_EN_0510_Most-Useful-Coding-and-Programming-Languages-to-Know.jpg)
  
 ## 1. Java 
 
