@@ -13,7 +13,9 @@ This Colligere/Collection will feature
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language)) : Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture.
 
-## 2. HTML
+## 2. HTML & CSS 
+
+![Alt Text](https://cfe2-static.s3-us-west-2.amazonaws.com/media/html-basics/images/htmlbasics.png)
 ## 3. Visual Basic
 ## 4. C
 ## 5. Random Ideas/Projects
