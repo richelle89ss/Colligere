@@ -9,7 +9,6 @@
  * linked list. Each link references the next link and the previous
  * one.
  * 
- * @author Unknown
  *
  */
 
@@ -210,5 +209,8 @@ class Link{
 		myList.insertOrdered(67);
 		myList.insertOrdered(3);
 		myList.display(); // <-- 3(head) <--> 10 <--> 13 <--> 23 <--> 67(tail) -->
+		
+		 //End of code
+		
 	}
 }
