@@ -1,11 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
 
 public class LinearSearch{
     /**
@@ -73,5 +68,9 @@ public class LinearSearch{
             }
         }
         return -1;
+        
+        //End of code
+        
+        
     }
 }
