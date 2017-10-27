@@ -221,6 +221,10 @@ public class treeclass {
 		}
 		for (int i = arr.size() - 1; i >= 0; i--) {
 			node.child.remove(arr.get(i) + 0);
+			
+			 //End of code
+			
+			
 		}
 	}
 
