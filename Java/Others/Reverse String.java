@@ -4,9 +4,6 @@ import java.io.InputStreamReader;
 
 /**
  * This method produces a reversed version of a string
- * 
- * @author Unknown
- *
  */
 class ReverseString
 {
@@ -41,6 +38,10 @@ class ReverseString
 		String srr=br.readLine();
 		System.out.println("Reverse="+reverseString(srr));
 		br.close();
+		
+		//End of code
+		
+		
 	}
 }
 		
