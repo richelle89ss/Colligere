@@ -4,6 +4,8 @@
 
 Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English. 
 
+![Alt Text]()
+
 This Colligere/Collection will feature 
 
  
@@ -30,13 +32,19 @@ Python features a dynamic type system and automatic memory management and suppor
 
 ## 4. Visual Basic
 
+![Alt Text](https://www.gizbot.com/img/2013/11/20-microsoftvisualstudio.jpg)
+
 From [Wikipedia](https://en.wikipedia.org/wiki/Visual_Basic) : Visual Basic is a third-generation event-driven programming language and integrated development environment (IDE) from Microsoft for its Component Object Model (COM) programming model first released in 1991 and declared legacy during 2008. Microsoft intended Visual Basic to be relatively easy to learn and use. Visual Basic was derived from BASIC, a user-friendly programming language designed for beginners, and it enables the rapid application development (RAD) of graphical user interface (GUI) applications, access to databases using Data Access Objects, Remote Data Objects, or ActiveX Data Objects, and creation of ActiveX controls and objects.
 
 ## 5. C
 
+![Alt Text](https://udemy-images.udemy.com/course/750x422/523966_5833.jpg)
+
 From [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) : C (/ˈsiː/, as in the letter c) is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations. By design, C provides constructs that map efficiently to typical machine instructions, and therefore it has found lasting use in applications that had formerly been coded in assembly language, including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems.
 
 ## 6. C#
+
+![Alt Text](http://www.horizonsofts.com/wp-content/uploads/2016/07/csharp.jpg)
 
 From [Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) : C# (pronounced as see sharp) is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. 
 
