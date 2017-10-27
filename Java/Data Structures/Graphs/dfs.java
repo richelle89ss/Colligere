@@ -3,7 +3,6 @@ import java.util.*;
 /**
  * Implementation of a Depth First Search
  * 
- * @author Unknown
  *
  */
 
