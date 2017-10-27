@@ -4,7 +4,6 @@ import java.util.Scanner;
  * Heap Sort Algorithm
  * Implements MinHeap
  * 
- * @author Unknown
  *
  */
 public class HeapSort {
@@ -169,6 +168,10 @@ public class HeapSort {
         HeapSort data = new HeapSort(heap);
         int[] sorted = data.sort();
         printData(sorted);
+        
+        //End of code
+        
+        
     }
 
 }
