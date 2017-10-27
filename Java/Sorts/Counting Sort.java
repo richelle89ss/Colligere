@@ -2,11 +2,6 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- *
- * @author Youssef Ali (https://github.com/youssefAli11997)
- *
- */
 
 class CountingSort {
 
@@ -85,6 +80,8 @@ class CountingSort {
         for(int i=0; i<last; i++) {
             System.out.print(array1[i]+" ");
 		}
+	    
+	    //End of code
 		
     }
 }
