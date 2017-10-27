@@ -3,8 +3,6 @@
  * up to a given value.
  * Illustration: https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif
  * (This illustration is also in the github repository)
- * 
- * @author Unknown
  *
  */
 public class FindingPrimes{
@@ -40,6 +38,10 @@ public class FindingPrimes{
 		for(int i = 0; i< n; i++){
 			if(sieve[i]==true)
 				System.out.print(i+" "); //In this example it will print 2 3 5 7 11 13 17 19
+			
+			 //End of code
+			
+			
 		}
 	}
 }
