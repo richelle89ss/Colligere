@@ -11,6 +11,10 @@ class Palindrome {
 	
 	public Boolean isPalindrome(String x){ //*palindrome method, returns true if palindrome
 		return (x.equalsIgnoreCase(reverseString(x)));
+		
+		//End of code
+		
+		
 	}
   
   }
