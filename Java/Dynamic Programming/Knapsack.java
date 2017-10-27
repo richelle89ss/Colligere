@@ -34,5 +34,9 @@ public class Knapsack
 	int W = 50;
 	int n = val.length;
 	System.out.println(knapSack(W, wt, val, n));
+		
+		 //End of code
+		
+		
 	}
 }
