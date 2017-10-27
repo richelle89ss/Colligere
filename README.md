@@ -12,7 +12,7 @@
 ### *Education* : Foundation in *Computing*, Bachelor's Degree in *Software Engineering* @ *Taylor's University*
 ### *Work* : Freelance *Translator* , *Animal rights volunteer*
 ## *Accomplishments* : 
-### 1. *Number 3* in *Knowledge in General Sciences Competition*.
+### 1. Came in *Number 3* in a *Knowledge in General Sciences Competition*.
 ### 2. Got in *Top 100* at a *NASA Hackaton* amongst *700 Teams*.
 
 # *This Colligere/Collection will feature*
