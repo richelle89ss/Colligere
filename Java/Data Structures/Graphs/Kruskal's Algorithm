@@ -172,7 +172,7 @@ class Graph
  
         graph.KruskalMST();
      
-     // End of sol 
+     // End of code
      
     }
 }
