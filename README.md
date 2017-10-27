@@ -5,7 +5,7 @@ Colligere; derives from Old Latin, later evolved into Collectio in Latin, and ev
 This Colligere/Collection will feature 
  
 ## 1. Java 
-[Link Text](https://en.wikipedia.org/wiki/Java_(programming_language))
+[Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 ## 2. HTML
 ## 3. Visual Basic
 ## 4. C
