@@ -2,7 +2,7 @@
 
 ![Alt Text](https://www.ibm.com/developerworks/i/f-ts-javadevelop.png)
 
-*Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English. 
+*Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English.*
 
 ![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
 
