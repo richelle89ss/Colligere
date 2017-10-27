@@ -42,5 +42,9 @@ public class Array {
 	    }
 	    for(i=0;i<size2-1;i++)
 	    	System.out.println(b[i]);
+		
+		//End of code
+		
+		
 	}
 }
