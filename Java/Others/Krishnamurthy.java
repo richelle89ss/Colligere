@@ -25,5 +25,9 @@ class krishnamurthy
         System.out.print(n+" is a krishnamurthy number");
         else
         System.out.print(n+" is not a krishnamurthy number");
+  
+  //End of code
+  
+  
     }
 }
