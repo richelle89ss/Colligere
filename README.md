@@ -4,7 +4,7 @@
 
 *Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English.*
 
-![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
+
 
 # *This Colligere/Collection will feature*
 
@@ -61,3 +61,6 @@ It was designed with a bias toward system programming and embedded, resource-con
 ![Alt Text](http://www.mindlabsmedia.co.uk/wp-content/uploads/2016/07/projectManagement-Icon-Grey-600x200.png)
 
 *_Ideas and Projects that are thought of by me and a cluster of ideas to fuel and enhance the quality of the project to ensure the best outcome._*
+
+
+![Alt Text](https://pbs.twimg.com/media/DMjJ4sMX0AAT4Po.jpg)
