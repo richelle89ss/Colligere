@@ -29,5 +29,9 @@ public class Solution {
 	   
 	rv =  (int)root;
       return (double)rv/precision;
+	   
+	    //End of code
+	   
+	   
    }
 }
