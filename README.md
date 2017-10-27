@@ -6,11 +6,18 @@
 
 # Biography 
 
-### *Name* : *Richelle Tan* 
-### *Age* : 20
-### *Date of Birth* : *Nov 16th* 1998 
-### *Education* : Foundation in *Computing*, Bachelor's Degree in *Software Engineering* @ *Taylor's University*
-### *Work* : Freelance *Translator* , *Animal rights volunteer*
+## *Name* : 
+### *Richelle Tan* 
+## *Age* : 
+### 20
+## *Date of Birth* :
+### *Nov 16th* 1998 
+## *Education* : 
+### 1. Foundation in *Computing*
+### 2. Bachelor's Degree in *Software Engineering* @ *Taylor's University*
+## *Work* : 
+### 1. Freelance *Translator* 
+### 2.*Animal rights volunteer*
 ## *Accomplishments* : 
 ### 1. Came in *Number 3* in a *Knowledge in General Sciences Competition*.
 ### 2. Got in *Top 100* at a *NASA Hackaton* amongst *700 Teams*.
