@@ -17,7 +17,7 @@
 ### 2. Bachelor's Degree in *Software Engineering* @ *Taylor's University*
 ## *Work* : 
 ### 1. Freelance *Translator* 
-### 2.*Animal rights volunteer*
+### 2. *Animal rights volunteer*
 ## *Accomplishments* : 
 ### 1. Came in *Number 3* in a *Knowledge in General Sciences Competition*.
 ### 2. Got in *Top 100* at a *NASA Hackaton* amongst *700 Teams*.
