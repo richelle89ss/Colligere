@@ -1,6 +1,10 @@
 import java.lang.StringBuilder;
 import java.util.Scanner;
 
+/**
+decimal to hex
+**/
+
 class Test {
   private static final int sizeOfIntInHalfBytes = 8;
   private static final int numberOfBitsInAHalfByte = 4;
