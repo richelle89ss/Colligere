@@ -4,7 +4,7 @@
 
 *Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English.*
 
-
+![Alt Text](https://allankakinda.files.wordpress.com/2014/02/biography.jpg)
 
 # *This Colligere/Collection will feature*
 
