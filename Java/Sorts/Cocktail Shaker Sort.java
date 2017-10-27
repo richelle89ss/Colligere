@@ -1,9 +1,4 @@
 
-/**
- *
- * @author Mateus Bizzo (https://github.com/MattBizzo)
- *
- */
 
 class CocktailShakerSort {
 	/**
@@ -81,6 +76,10 @@ class CocktailShakerSort {
 		// Output => a b c d e
 		for (int i = 0; i < last; i++) {
 			System.out.print(array1[i] + "\t");
+			
+			//End of code
+			
+			
 		}
 	}
 }
