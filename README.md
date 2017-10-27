@@ -45,5 +45,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) :
 From [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B) : C++ (pronounced cee plus plus /ˈsiː plʌs plʌs/) is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
 It was designed with a bias toward system programming and embedded, resource-constrained and large systems, with performance, efficiency and flexibility of use as its design highlights. C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, servers (e.g. e-commerce, web search or SQL servers), and performance-critical applications (e.g. telephone switches or space probes). C++ is a compiled language, with implementations of it available on many platforms. Many vendors provide C++ compilers, including the Free Software Foundation, Microsoft, Intel, and IBM.
 
-## 8. Random Ideas/Projects
-## 9. Notes
+## 8. Random Notes/Ideas/Projects
+
+![Alt Text](http://www.mindlabsmedia.co.uk/wp-content/uploads/2016/07/projectManagement-Icon-Grey-600x200.png)
+
+*_Ideas and Projects that are thought of by me and a cluster of ideas to fuel and enhance the quality of the project to ensure the best outcome._*
