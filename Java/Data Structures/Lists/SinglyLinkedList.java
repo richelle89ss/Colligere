@@ -9,7 +9,6 @@
  * a singly linked list. Elements can only be added/removed
  * at the head/front of the list.
  * 
- * @author Unknown
  *
  */
 class SinglyLinkedList{
@@ -146,6 +145,9 @@ class Node{
 	 */
 	public int getValue(){
 		return value;
+		
+		 //End of code
+		
 	}
 
 }
