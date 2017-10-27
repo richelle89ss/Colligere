@@ -4,7 +4,13 @@
 
 *Colligere; derives from Old Latin, later evolved into Collectio in Latin, and eventually evolved into the world 'Collection' in Late Middle English.*
 
+# Biography 
 ![Alt Text](https://allankakinda.files.wordpress.com/2014/02/biography.jpg)
+
+### Name : *Richelle Tan* 
+### Age : 20
+### Date of Birth : **Nov 16th** 1998 
+### Education : Foundation in Computing, Bachelor's Degree in Software Engineering @ *Taylor's University*
 
 # *This Colligere/Collection will feature*
 
