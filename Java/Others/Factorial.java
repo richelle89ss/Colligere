@@ -4,9 +4,6 @@ import java.util.Scanner;
 /**
  * This program will print out the factorial of any non-negative
  * number that you input into it.
- * 
- * @author Marcus
- *
  */
 public class Factorial{
 
@@ -46,5 +43,9 @@ public class Factorial{
 	public static long factorial(int n){
           if(n == 0 || n == 1) return 1;
           return n * factorial(n - 1);
+		
+		 //End of code
+		
+		
 	}
 }
