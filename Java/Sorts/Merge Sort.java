@@ -1,8 +1,4 @@
-/**
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- *
- */
+
 
 class MergeSort {
 
@@ -96,5 +92,9 @@ class MergeSort {
         {
             System.out.print(array1[i]+"\t");
         }
+        
+        //End of code
+        
+        
     }
 }
