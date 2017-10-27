@@ -16,7 +16,16 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language)) : Ja
 ## 2. HTML & CSS 
 
 ![Alt Text](https://cfe2-static.s3-us-west-2.amazonaws.com/media/html-basics/images/htmlbasics.png)
-## 3. Visual Basic
-## 4. C
-## 5. Random Ideas/Projects
-## 6. Notes
+## 3. Python
+
+![Alt Text](https://www.h-its.org/wp-content/uploads/2017/07/python-logo-master-v3-TM.png)
+
+## 4. Visual Basic
+## 5. C
+## 6. C#
+
+![Alt Text](https://udemy-images.udemy.com/course/750x422/120820_46e9_7.jpg)
+## 7. C++
+## . Ruby 
+## Random Ideas/Projects
+## Notes
