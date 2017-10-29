@@ -8,11 +8,6 @@
 
 A collection of hacking / penetration testing resources to make you better!
 
-**Let's make it the biggest resource repository for our community.**
-
-**You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
-
-We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
 ## Table of Contents
  * [Learning the Skills](#learning-the-skills)
